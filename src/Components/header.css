@@ -1,0 +1,17 @@
+.alice-carousel__dots {
+    margin: 13px 3px -6px;
+    background-color: rgb(2 132 199 / 1);
+    display: block;
+    margin: auto;
+    width: fit-content;
+    padding: 4px 14px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+/*.alice-carousel__dots-item .__active {
+    background: blue;
+} */
+
+.alice-carousel__prev-btn, .alice-carousel__next-btn {
+    display: none;
+}
