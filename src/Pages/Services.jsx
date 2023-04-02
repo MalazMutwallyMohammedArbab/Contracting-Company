@@ -13,7 +13,7 @@ export default function Services() {
           <div className='text-white bg-sky-600 font-medium rounded-lg text-[19px] md:text-[24px] py-3 px-5 w-fit m-auto text-center mb-4'>التوريد الصناعي</div>
           <div className='grid grid-cols-1 md:grid-cols-2 gap-4 px-4 text-[#555] font-medium'>
             <div className='bg-[#FFFFFF] p-3 rounded-[40px] shadow'>
-              <div className='text-md md:text-xl'>تنفيذ أعمال التبريد (المونيوم، فريون)</div>
+              <div className='text-md md:text-xl'>تنفيذ أعمال التبريد (أمونيا، فريون)</div>
             </div>
             <div className='bg-[#FFFFFF] p-3 rounded-[40px] shadow'>
               <div className='text-md md:text-xl'>تركيب المستودعات الخاصة بخزانةالتبريد اللوجستية</div>
