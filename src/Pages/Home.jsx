@@ -9,7 +9,7 @@ import SliderImage from '../Components/SliderImage';
 
 export default function Home() {
   return (
-    <div className=''>
+    <div>
       <About />
       <Services />
       <SliderImage />
